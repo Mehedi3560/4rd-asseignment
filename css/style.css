@@ -1,0 +1,102 @@
+.pagefrom{
+   background-color: darkgray;
+   width: 1100px;
+   height: 100vh;
+   margin: auto;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.signup{
+    display: flex; 
+    background-color:#fff;
+    width: 800px;
+    margin: 10px 10px;  
+    padding: 10px 10px;
+}
+.right{
+    flex-basis: 60%;
+    margin-top: 140px;
+    text-align: center;
+
+}
+.right img{
+   
+   
+}
+.right p{
+    font-size: 18px;
+}
+.left{
+    flex-basis: 40%;
+    margin: 60px;
+    line-height: 50px;
+    padding: 10px;
+    
+    
+}
+.first{
+    width: 100%;
+    padding: 10px 0px 10px 21px;
+    border: none;
+    border-bottom: 1px solid gray;
+    display: block;
+    margin-bottom: 10px;
+    
+}
+.btnn{
+    background-color: salmon;
+    padding: 14px;
+    border-radius: 10%;
+}
+.btnn:hover{
+    background-color: skyblue;
+    color: snow;
+}
+.left.loged{
+    margin-bottom: 50px;
+}
+.high{
+    margin-top: 60px;
+    font-size: 48px;
+}
+.loged{
+font-size: 18px;
+margin-top: 85px;
+}
+.main_form{
+    position: relative;
+}
+.icon_div{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.last{
+    padding-top: 80px;
+   
+}
+.last a{
+    margin:0px 10px;
+    text-decoration: none;
+}
+.last a i{
+    height: 30px;
+    width: 30px;
+    background-color: #14a6e1;
+    line-height: 30px;
+    text-align: center;
+    border-radius: 7px;
+    color: white;
+}
+.last a i:hover{
+    background-color: green;
+}
+.fbbbb{
+    background-color: aliceblue;
+    color: white;
+}
+.twww{
+    background-color: rgb(230, 230, 243);
+    c
+}
